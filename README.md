@@ -1,4 +1,13 @@
-## Hi there 👋
+# About me
+
+### 1. Learning machine / deep learning algorithm
+
+### 2. Background in computational physics(density functional theory)
+
+### 3. Skills in Python & C++
+
+### 4. Passionate problem solver in codewars, leetcode, & Projedt Euler
+
 
 <!--
 **WonjaeJoTheSubtle/WonjaeJoTheSubtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
